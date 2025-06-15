@@ -5,6 +5,9 @@ This project demonstartes how to set up a Docker enviroment for a basic web serv
 
 
 🛠️ Tech Stack
-Node.js 14 (Alpine)
-Docker (multi-platform containerization)
-npm for package management
+• Node.js 14 (Alpine)
+• Docker (multi-platform containerization)
+• npm for package management
+
+🐳 My Docker Hub
+https://hub.docker.com/u/vforvog
